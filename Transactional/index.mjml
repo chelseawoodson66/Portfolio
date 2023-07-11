@@ -1,0 +1,94 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-weight="bold" font-family="sans-serif" />
+      <mj-class name="box" />
+      <mj-style> .box { box-sizing: border-box; border: 2px solid black; width: 300px; height: 150px; padding: 5px 5px; align: center; } } </mj-style>
+      <mj-attributes />
+  </mj-head>
+  <mj-body background-color="#eee">
+    <mj-section>
+      <mj-column>
+        <mj-image width="600px" src="C:\Users\chels\promm\MJML\images\unnamed (5).jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="15px" align="left" text-decoration="underline"><em> Order Number</em></mj-text>
+        <mj-text align="left"> 123459849302 </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="15px" align="right" text-decoration="underline"> <em>Order Date</em></mj-text>
+        <mj-text align="right">06/10/20203</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#19a7ce">
+      <mj-column>
+        <mj-text line-height="20px" align="center"> Just a quick update to let you know we’re still working on your order. Please note: This is our best known delivery date at this time, but changes are possible based on delays with our carriers. Thanks for your patience! Bath & Body Works Customer Care. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="C:\Users\chels\images\unnamed (1).jpg" width="200px" height="200px" align="left" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" padding-top="50px"> Champagne Toast and Iced Cinnamon Rolls<br></br> Color: Gentle Foaming Hand Soap <br></br>Size: 8.75 fl oz / 259 mL<br></br> Quantity: 1 </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="C:\Users\chels\images\unnamed.jpg" width="200px" height="200px" align="left" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" padding-top="50px"> Japanese Cherry Blossom<br></br> Color: Wallflowers Fragrance <br></br> Refill Size: 0.8 fl oz / 24 mL<br></br> Quantity: 1 </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="C:\Users\chels\images\unnamed (2).jpg" width="200px" height="200px" align="left" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" padding-top="50px"> Cactus Blossom<br></br> Color: Gentle Foaming Hand Soap<br></br> Size: 8.75 fl oz / 259 mL<br></br> Quantity: 1 </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="C:\Users\chels\images\unnamed (3).jpg" width="200px" height="200px" align="left" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" padding-top="50px"> Pink Pineapple Sunrise<br></br> Color: Wallflowers Fragrance Refill<br></br> Size: 0.8 fl oz / 24 mL<br></br> Quantity: 1 </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper css-class="box">
+      <mj-section>
+        <mj-column>
+          <mj-text> QUESTIONS ABOUT YOUR ORDER?<br></br> We're here to help with any questions or concerns! </mj-text>
+          <mj-button href="https://customercare.bathandbodyworks.com/hc/en-us" type="button">Contact Us</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Icons -->
+ 
+    <!-- Social icons -->
+    <mj-section>
+      <mj-column>
+         <mj-image src="C:\Users\chels\promm\MJML\images\bath and body works love it.jpg" height="200px" width="300px"></mj-image>
+        <mj-social>
+          <mj-social-element name="twitter" href="https://mjml.io/"></mj-social-element>
+          <mj-social-element name="facebook" href="https://mjml.io/"></mj-social-element>
+          <mj-social-element name="instagram" href="https://mjml.io/"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://mjml.io/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section >
+      <mj-column>
+       
+      
+     
+       <mj-text> Bath and Body Works 2023 </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
